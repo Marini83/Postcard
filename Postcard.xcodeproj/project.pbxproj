@@ -13,6 +13,8 @@
 		CEDA317A19C2760400B9B023 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEDA317919C2760400B9B023 /* Images.xcassets */; };
 		CEDA317D19C2760400B9B023 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CEDA317B19C2760400B9B023 /* LaunchScreen.xib */; };
 		CEDA318919C2760400B9B023 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDA318819C2760400B9B023 /* PostcardTests.swift */; };
+		CEDA319319C4C9EC00B9B023 /* Screen Shot 2014-07-27 at 9.32.21 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = CEDA319219C4C9EC00B9B023 /* Screen Shot 2014-07-27 at 9.32.21 AM.png */; };
+		CEDA319519C6226F00B9B023 /* Image0069.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CEDA319419C6226F00B9B023 /* Image0069.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		CEDA318219C2760400B9B023 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEDA318719C2760400B9B023 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CEDA318819C2760400B9B023 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		CEDA319219C4C9EC00B9B023 /* Screen Shot 2014-07-27 at 9.32.21 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2014-07-27 at 9.32.21 AM.png"; sourceTree = "<group>"; };
+		CEDA319419C6226F00B9B023 /* Image0069.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Image0069.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		CEDA317019C2760400B9B023 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CEDA319419C6226F00B9B023 /* Image0069.jpg */,
+				CEDA319219C4C9EC00B9B023 /* Screen Shot 2014-07-27 at 9.32.21 AM.png */,
 				CEDA317119C2760400B9B023 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,7 +200,9 @@
 			files = (
 				CEDA317819C2760400B9B023 /* Main.storyboard in Resources */,
 				CEDA317D19C2760400B9B023 /* LaunchScreen.xib in Resources */,
+				CEDA319319C4C9EC00B9B023 /* Screen Shot 2014-07-27 at 9.32.21 AM.png in Resources */,
 				CEDA317A19C2760400B9B023 /* Images.xcassets in Resources */,
+				CEDA319519C6226F00B9B023 /* Image0069.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
